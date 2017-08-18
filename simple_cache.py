@@ -7,6 +7,7 @@ Implement a simple in memory cache with the following interface.
 public interface Cache {
     public string get(key);
     public void set(key, value);
+    public int getMaxSize();
     public void setMaxSize(size);
     public int getCurrentCacheSize();
 }
