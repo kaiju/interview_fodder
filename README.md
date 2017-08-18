@@ -1,2 +1,3 @@
-# interview_fodder
-All the dumb on the spot code challenges I get when interviewing
+There is almost nothing I hate more on this earth than having to do on the spot 'code challenges' in order to show off what an absolute moron I can be with algorithms while some person breathes impatiently on the phone. 
+
+This is a collection of all such challenges I've had to deal with in my career of flubbing interviews. They are all as initially completed, usually within a typical time limit of thirty minutes to an hour. I have not gone back over any of these to improve them. Feel free to Nelson-laugh at me for not knowing how to reverse a binary tree off the top of my head. Any identifying information has been removed to protect the innocent.
